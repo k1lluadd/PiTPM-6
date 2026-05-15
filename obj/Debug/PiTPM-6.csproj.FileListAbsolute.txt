@@ -1,0 +1,10 @@
+B:\лабы\PiTPM-6\bin\Debug\PiTPM-6.exe.config
+B:\лабы\PiTPM-6\bin\Debug\PiTPM-6.exe
+B:\лабы\PiTPM-6\bin\Debug\PiTPM-6.pdb
+B:\лабы\PiTPM-6\obj\Debug\PiTPM-6.csproj.AssemblyReference.cache
+B:\лабы\PiTPM-6\obj\Debug\PiTPM_6.Properties.Resources.resources
+B:\лабы\PiTPM-6\obj\Debug\PiTPM-6.csproj.GenerateResource.cache
+B:\лабы\PiTPM-6\obj\Debug\PiTPM-6.csproj.CoreCompileInputs.cache
+B:\лабы\PiTPM-6\obj\Debug\PiTPM-6.exe
+B:\лабы\PiTPM-6\obj\Debug\PiTPM-6.pdb
+B:\лабы\PiTPM-6\obj\Debug\Lab6_Switcher.Program.resources
