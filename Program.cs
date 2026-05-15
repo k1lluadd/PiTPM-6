@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Globalization;
@@ -32,7 +32,7 @@ namespace Lab6_Switcher
 
         private void SetupMainUI()
         {
-            this.Text = "Лабораторная работа №6";
+            this.Text = "Лабораторная работа №6 - Гаврилов Артём, Ис24";
             this.Size = new Size(950, 650);
             this.StartPosition = FormStartPosition.CenterScreen;
             this.MinimumSize = new Size(850, 600);
